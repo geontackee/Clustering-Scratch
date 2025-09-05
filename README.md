@@ -23,7 +23,7 @@ Make sure you have the following dependencies installed:
 
 ```bash
 pip install numpy pandas matplotlib scikit-learn pillow opencv-python scipy
-
+```
 Have Python 3.8+
 
 ## How to Run
